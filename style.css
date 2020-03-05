@@ -1,0 +1,17 @@
+body {
+  font-size: large;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+footer p {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+footer {
+  background: #ebeeee;
+  height: 20px;
+}
